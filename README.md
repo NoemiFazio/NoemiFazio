@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noemi Fazio</h1>
+<h1 align="center">Hi 👋 I'm Noemi Fazio</h1>
 <h3 align="center">A soon-to-be Web developer.</h3>
 
 - 🌱 I’m currently learning **Html, Css, Javascript, React.js**
