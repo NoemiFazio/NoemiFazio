@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **noemict94@hotmail.it**
 
-- ⚡ Fun fact **I love water lilies <3 .**
+- ⚡ Fun fact: **I love water lilies <3 .**
+- ⚡ Second fun fact: **I have a degree in pharmaceutics .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
