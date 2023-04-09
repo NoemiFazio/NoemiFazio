@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Noemi Fazio</h1>
 <h3 align="center">A soon-to-be Web developer.</h3>
 
-  <div>
+  <div align="left">
 - 🌱 I’m currently learning **Html, Css, Javascript, React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/Waterlilyrr)
