@@ -1,4 +1,5 @@
-![aesthetic-wallpaper (1)](https://user-images.githubusercontent.com/103996524/230801114-41b062ce-1ee5-4837-9ab4-75cffccf8065.gif)
+<div align="center"> ![aesthetic-wallpaper (1)](https://user-images.githubusercontent.com/103996524/230801114-41b062ce-1ee5-4837-9ab4-75cffccf8065.gif) </div>
+
 
 <h1 align="center">Hi 👋 I'm Noemi Fazio</h1>
 <h3 align="center">A soon-to-be Web developer.</h3>
