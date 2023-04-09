@@ -1,3 +1,4 @@
+<img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54301dd1-2fd4-43bb-8d1d-869a859a7a96/dey8gpi-86a1c45c-7db5-48b2-9d98-d2eb4e575fc4.jpg/v1/fill/w_1280,h_720,q_75,strp/lo_fi_room_by_vortx0069_dey8gpi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTQzMDFkZDEtMmZkNC00M2JiLThkMWQtODY5YTg1OWE3YTk2XC9kZXk4Z3BpLTg2YTFjNDVjLTdkYjUtNDhiMi05ZDk4LWQyZWI0ZTU3NWZjNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hI_t3nEuFZgfG3C-_IK18ZLM0sK1c-lcSls559_ItWA">
 <h1 align="center">Hi 👋 I'm Noemi Fazio</h1>
 <h3 align="center">A soon-to-be Web developer.</h3>
 
