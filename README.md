@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waterlilyrr&show_icons=true&locale=en" alt="waterlilyrr" /></p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waterlilyrr" alt="waterlilyrr" /></a> </p>
+
   
  </div>
 </div>
