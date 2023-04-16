@@ -25,9 +25,9 @@
   
   ***
   
-  <div >
+  
   <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=waterlilyrr&theme=calm&show_icons=true&locale=en" alt="waterlilyrr" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=waterlilyrr&theme=calm&show_icons=true&locale=en&layout=compact" alt="waterlilyrr" /></p></div>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=waterlilyrr&theme=calm&show_icons=true&locale=en&layout=compact" alt="waterlilyrr" /></p>
   
   ---
 <h3 align="left">Connect with me:</h3>
