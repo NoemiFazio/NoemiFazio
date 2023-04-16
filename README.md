@@ -30,7 +30,7 @@
   
   <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waterlilyrr&theme=calm&show_icons=true&locale=en" alt="waterlilyrr" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waterlilyrr&theme=calm&show_icons=true&locale=en&layout=compact" alt="waterlilyrr" /></p></div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waterlilyrr&theme=calm&show_icons=true&locale=en&layout=compact" alt="waterlilyrr" /></p></div>
 
 
   
