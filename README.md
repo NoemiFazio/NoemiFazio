@@ -8,7 +8,7 @@
 
   <div align="left">
     
-- 🌱 I’m currently learning: **Html, Css, Javascript, React.js .**
+- 🌱 I’m currently learning: **React.ts .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/Waterlilyrr)
 
