@@ -8,7 +8,7 @@
 
   <div align="left">
     
-- 🌱 I’m currently learning: **React.ts .**
+- 🌱 I’m currently learning: **React.ts & Chakra UI .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/Waterlilyrr)
 
