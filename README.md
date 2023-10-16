@@ -8,7 +8,7 @@
 
   <div align="left">
     
-- 🌱 I’m currently learning: **React.ts & Framer motion .**
+- 🌱 I’m currently learning: **Next.ts.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/Waterlilyrr)
 
