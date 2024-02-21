@@ -28,9 +28,9 @@
    <br>
   
   <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=waterlilyrr&theme=calm&show_icons=true&locale=en" alt="waterlilyrr" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=noemiFazio&theme=calm&show_icons=true&locale=en" alt="noemifazio" /></p>
      <br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waterlilyrr&theme=calm&show_icons=true&locale=en&layout=compact" alt="waterlilyrr" /></p></div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemiFazio&theme=calm&show_icons=true&locale=en&layout=compact" alt="noemifazio" /></p></div>
    <br>
   
 <h2 align="left">Connect with me:</h2>
