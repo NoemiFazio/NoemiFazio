@@ -10,7 +10,7 @@
     
 - 🌱 I’m currently learning: **React Native**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/NoemiFazio)
+- 👨‍💻 All of my projects are available at [https://github.com/NoemiFazio](https://github.com/NoemiFazio)
 
 - 📫 How to reach me **noemict94@hotmail.it**
 
