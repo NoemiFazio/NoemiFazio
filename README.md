@@ -8,9 +8,9 @@
 
   <div align="left">
     
-- 🌱 I’m currently learning: **Vue**.
+- 🌱 I’m currently learning: **react Native**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/Waterlilyrr)
+- 👨‍💻 All of my projects are available at [https://github.com/Waterlilyrr](https://github.com/NoemiFazio)
 
 - 📫 How to reach me **noemict94@hotmail.it**
 
