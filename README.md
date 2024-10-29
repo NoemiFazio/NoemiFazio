@@ -8,7 +8,7 @@
 
   <div align="left">
     
-- 🌱 I’m currently learning: **React Native**.
+- 🌱 I’m currently learning: **React Native and Vue**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoemiFazio](https://github.com/NoemiFazio)
 
